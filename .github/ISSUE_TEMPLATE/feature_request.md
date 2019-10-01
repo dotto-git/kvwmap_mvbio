@@ -1,9 +1,9 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Schlage eine Idee für die Verbesserung des Projektes vor
 title: ''
 labels: ''
-assignees: ''
+assignees: pkorduan, dotto-git
 
 ---
 
