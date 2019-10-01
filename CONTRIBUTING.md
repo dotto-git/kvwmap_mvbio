@@ -1,0 +1,2 @@
+Danke, dass Sie sich an diesem Projekt beteiligen möchten. Wenn Sie Nutzer der WebGIS-Anwwendung MVBio sind und Fehler finden oder Fragen zur Nutzung haben, wenden Sie sich bitte an Herrn Daniel Otto vom LUNG (daniel.otto@lung.mv-regierung.de).
+Allgemeine Änderungswünsche und Ideen zum WebGIS kvwmap werden im Wiki kvwmap.de gesammelt. Melden Sie sich dazu an der Mailingliste kvwmap-users an. (https://sourceforge.net/p/kvwmap/mailman/kvwmap-users/)
