@@ -1,2 +1,4 @@
 Danke, dass Sie sich an diesem Projekt beteiligen möchten. Wenn Sie Nutzer der WebGIS-Anwwendung MVBio sind und Fehler finden oder Fragen zur Nutzung haben, wenden Sie sich bitte an Herrn Daniel Otto vom LUNG (daniel.otto@lung.mv-regierung.de).
-Allgemeine Änderungswünsche und Ideen zum WebGIS kvwmap werden im Wiki kvwmap.de gesammelt. Melden Sie sich dazu an der Mailingliste kvwmap-users an. (https://sourceforge.net/p/kvwmap/mailman/kvwmap-users/)
+Allgemeine Änderungswünsche und Ideen zum WebGIS kvwmap werden im Wiki kvwmap.de gesammelt. Melden Sie sich dazu an der Mailingliste kvwmap-users an. (https://sourceforge.net/p/kvwmap/mailman/kvwmap-users/).
+Issues in diesem Repository dienen der Abstimmung zwischen dem LUNG und dem Auftraggeber GDI-Service zur Entwicklung, Wartung und Pflege der WebGIS-Anwendung MVBio Pro, daher sind in diesem Repository nur Beiträge vom LUNG oder GDI-Service zugelassen.
+Sollte die WebGIS-Anwendung auch von anderen zur Biotoptypenkartierung eingesetzt werden, z.B. für die Waldbiotoptypen, kann der Nutzerkreis erweitert werden.
